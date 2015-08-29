@@ -1,0 +1,20 @@
+{
+  "name": "boundaries.data",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "bluebird": "^2.9.34",
+    "event-stream": "^3.3.1",
+    "optimist": "^0.6.1",
+    "request": "^2.60.0",
+    "rethinkdb": "^2.0.2",
+    "shp2json": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josh bielick <jbielick@gmail.com>",
+  "license": "ISC"
+}
