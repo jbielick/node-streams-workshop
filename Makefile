@@ -26,6 +26,6 @@ clean:
 	# pass
 
 .PRECIOUS: %.zip %.geo.json
-.INTERMEDIA: %.tmp
+.INTERMEDIATE: %.tmp
 
 .PHONY: clean zcta5 county place state
